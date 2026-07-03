@@ -6,9 +6,13 @@
 
 ---
 
-**NetX AIOps** builds AI agents that diagnose network faults the way a senior
-engineer does — reasoning over live telemetry to find the **root cause**, not just
-the symptoms.
+**NetX AIOps** builds AI agents that diagnose network faults the way a proof is
+built — deriving the **root cause** from streaming syslog and proving every
+symptom against diagnostic evidence gathered from the devices in real time.
+
+No device probing, no hand-written fault descriptions — we run purely on
+network-wide device logging, the most widely established monitoring baseline
+(additional telemetry sources welcome).
 
 - 🔎 **Autonomous root-cause analysis** across OSPF, IS-IS, BGP, Segment Routing, and SRv6
 - 🧠 **Ontology-grounded reasoning** — symbolic inference paired with LLM agents, over live IOS-XR networks
