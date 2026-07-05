@@ -28,7 +28,7 @@ outcomes and progressively improve its diagnostic behavior, including with small
 and fully air-gapped on-prem deployments.
 
 - **Autonomous RCA** across OSPF, IS-IS, BGP, Segment Routing, and SRv6, and many more
-- **Ontology-grounded reasoning:** symbolic inference paired with LLM agents, over live IOS-XR networks
+- **Ontology-grounded reasoning:** symbolic inference paired with SLM agents, over live IOS-XR networks
 - **Reproducible evaluation** against gold benchmarks on live labs
 
 ### Open resources
